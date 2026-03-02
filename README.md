@@ -1,5 +1,6 @@
 Stellar Photometry and Calibration Project
-This repository contains a collection of Jupyter Notebooks and data files focused on stellar parameter visualization, flux calculations, and the creation of calibration plans for MS (Main Sequence) and RG (Red Giant) stars using various survey data including SDSS, PS1, Gaia, and Euclid.
+
+This repository contains a collection of Jupyter Notebooks and data files focused on stellar parameter visualization, flux calculations, and the creation of calibration plans for MS (Main Sequence) and RG (Red Giant) stars using various survey data including SDSS, PS1 and Euclid.
 
 Project Overview
 The project involves several key analysis steps:
